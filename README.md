@@ -89,7 +89,7 @@ Micah Read
 
 ![Mac OS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 
-<br>
+[View my resume](resume.md)
 
 # Sources
 
