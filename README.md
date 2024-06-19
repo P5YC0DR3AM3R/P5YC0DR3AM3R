@@ -90,6 +90,7 @@ Micah Read
 ![Mac OS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 
 <details><summary style="font-size: 1.5em; font-weight: bold;">Resume</summary>
+      
 # Micah Read
 
 **Contact Information**
