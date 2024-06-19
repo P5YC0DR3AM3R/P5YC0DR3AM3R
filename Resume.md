@@ -84,7 +84,7 @@ Full stack developer with a passion for building efficient, scalable web applica
 - **Render Link:** [Render Deployment](https://inbrowtexed.onrender.com/)
 - **GitHub Link:** [GitHub Repository](https://github.com/P5YC0DR3AM3R/InBrowTexEd)
 
-### Project 2: [Note Taker]
+### Project 2: Note Taker
 - **Description:** Brief description of the project.
 - **Technologies Used:** React
 - **Render Link:** [Render Deployment](https://takenote-k889.onrender.com/)
