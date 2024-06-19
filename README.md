@@ -76,6 +76,8 @@ Email me and put "Request to push to GitHub Repo" in the subject line and we can
 
 ## Tests
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wartech93&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wartech93&layout=compact&theme=radical)
 
 ## Questions
 For any questions, please contact me at [micahreadmgmt@gmail.com](mailto:micahreadmgmt@gmail.com).
