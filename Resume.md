@@ -5,9 +5,9 @@
 - **Cell:** (305) 587-1186
 - **Email:** micahreadmgmt@gmail.com
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P5YC0DR3AM3R) - https://github.com/P5YC0DR3AM3R
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P5YC0DR3AM3R)  https://github.com/P5YC0DR3AM3R
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micahreadmgmt/) - https://www.linkedin.com/in/micahreadmgmt
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micahreadmgmt/)  https://www.linkedin.com/in/micahreadmgmt
 
 ---
 
