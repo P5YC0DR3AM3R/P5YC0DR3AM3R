@@ -5,6 +5,8 @@
 - **Cell:** (305) 587-1186
 - **Email:** micahreadmgmt@gmail.com
 
+---
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P5YC0DR3AM3R)  https://github.com/P5YC0DR3AM3R
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micahreadmgmt/)  https://www.linkedin.com/in/micahreadmgmt
@@ -21,10 +23,6 @@ Full stack developer with a passion for building efficient, scalable web applica
 
 **EdX Bootcamp for Full Stack Flex Coding**
 - **Graduation Date:** June 17, 2024
-- **Key Learnings:**
-  - Front-end: HTML, CSS, JavaScript, React, Material-UI, Bootstrap, Tailwind
-  - Back-end: Node.js, Express.js, MongoDB, SQL, PostgreSQL
-  - Other Technologies: Git, GitHub, GitLab, Netlify, Render, Apollo GraphQL
 
 **Liberty University, Lynchburg, VA**
 - **Attended:** August 1999 – May 2000
@@ -97,6 +95,7 @@ Full stack developer with a passion for building efficient, scalable web applica
 - **GitHub Link:** [GitHub Repository](https://github.com/P5YC0DR3AM3R/personal_portfolio)
 </details>
 
+---
 
 ## Certifications
 
