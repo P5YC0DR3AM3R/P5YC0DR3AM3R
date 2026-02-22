@@ -1,171 +1,207 @@
-# P5YC0DR3AM3R
+<![CDATA[<!-- Animated Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0D1117&height=220&section=header&text=P5YC0DR3AM3R&fontSize=70&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Micah%20Read%20%7C%20Full%20Stack%20Developer%20%7C%20Musician&descSize=18&descColor=8B949E&descAlignY=55" width="100%" alt="Header" />
+</p>
 
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/P5YC0DR3AM3R">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%7C+Musician+%7C+Lifelong+Learner;Building+efficient%2C+scalable+web+applications" alt="Typing SVG" />
+  </a>
+</p>
 
-<details><summary style="font-size: 2.5em; font-weight: bold;">Resume</summary>
-      
-# Micah Read
+<!-- Contact Badges -->
+<p align="center">
+  <a href="https://github.com/P5YC0DR3AM3R"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/micahreadmgmt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:micahreadmgmt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-**Contact Information**
-- **Email:** micahreadmgmt@gmail.com
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P5YC0DR3AM3R)  https://github.com/P5YC0DR3AM3R
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micahreadmgmt/)  https://www.linkedin.com/in/micahreadmgmt
-
----
-
-## Summary
-
-Full stack developer with a passion for building efficient, scalable web applications. Recently graduated from EdX Bootcamp for Full Stack Flex Coding, equipped with a solid foundation in front-end and back-end technologies. Strong problem-solving skills and a dedication to continuous learning. Seeking to leverage my skills in a dynamic and innovative development team.
-
----
-
-## Education
-
-**EdX Bootcamp for Full Stack Flex Coding**
-- **Graduation Date:** June 17, 2024
-- **Key Learnings:**
-  - Front-end: HTML, CSS, JavaScript, React, Material-UI, Bootstrap, Tailwind
-  - Back-end: Node.js, Express.js, MongoDB, SQL, PostgreSQL
-  - Other Technologies: Git, GitHub, GitLab, Netlify, Render, Apollo GraphQL
-
-**Liberty University, Lynchburg, VA**
-- **Attended:** August 1999 – May 2000
-
-**Collins Hill High School, Suwanee, GA**
-- **Graduated:** 1999
+<br/>
 
 ---
 
-## Skills
+## About Me
 
-- **Programming Languages:** HTML, CSS, JavaScript, SQL
-- **Front-end:** React, Material-UI, Bootstrap, Tailwind
-- **Back-end:** Node.js, Express.js, MongoDB, SQL
-- **Tools & Platforms:** Git, GitHub, GitLab, Netlify, Render, Apollo GraphQL
-- **Others:** Markdown, Flexbox, SASS, Mongoose, NoSQL, Redux, PWA, ORM, API, MVC, ZSH
+Full stack developer with a passion for building efficient, scalable web applications. Equipped with a solid foundation in front-end and back-end technologies from the EdX/UCF Full Stack Flex Coding Bootcamp, and an advanced specialization in Applied Generative AI from the University of Michigan. Strong problem-solving skills and a dedication to continuous learning. When I'm not coding, you can find me performing as a vocalist and guitarist across Central Florida.
 
 ---
 
-<details><summary style="font-size: 1.5em; font-weight: bold;">Work Experience</summary>
+## Education & Certifications
 
-**Self Employed** (2002-Present)
-- **Role:** Performing Artist - Voice and Guitar
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/edX-02262B?style=for-the-badge&logo=edx&logoColor=white" alt="edX" /><br/><br/>
+      <strong>EdX / UCF Full Stack Flex Coding Bootcamp</strong><br/>
+      <sub>Graduated: June 2024</sub><br/><br/>
+      <em>Comprehensive training in full stack development covering front-end and back-end technologies.</em><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Simplilearn-FF6600?style=for-the-badge" alt="Simplilearn" />
+      <img src="https://img.shields.io/badge/U%20of%20Michigan-00274C?style=for-the-badge&logoColor=white" alt="UMich" /><br/><br/>
+      <strong>Applied Generative AI Specialization</strong><br/>
+      <sub>Completed: October 2025</sub><br/><br/>
+      <em>Advanced specialization in applied generative AI concepts and techniques. Issued by University of Michigan / Simplilearn.</em><br/><br/>
+      <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="GenAI" />
+      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="ML" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Liberty University</strong> &mdash; Lynchburg, VA<br/>
+      <sub>Attended: August 1999 &ndash; May 2000</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>Collins Hill High School</strong> &mdash; Suwanee, GA<br/>
+      <sub>Graduated: 1999</sub>
+    </td>
+  </tr>
+</table>
 
-**Hard Rock Hotel at Universal Orlando** (2011-Present)
-- **Role:** Singer Performer Trio, Duo and Solo
+---
 
-**BookIt Entertainment Corporate Events** (2009-2022)
-- **Role:** Performing Artist - Tripped Up Trio, Duo and Solo
+## Tech Stack
 
-**MRMG Live** (2017-2019)
-- **Role:** Senior Partner - Stage Management and Entertainment Director Services
+<details open><summary><strong>Languages & Markup</strong></summary>
+<br/>
 
-**Fishlips, Cape Canaveral** (20014-2020)
-- **Role:** Entertainment Director - Schedule and Payroll for two stages and Performer
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-**Brewmaster's Invitational Beer Festival, Cape Canaveral** (2015 & 2016)
-- **Role:** Coordinated Sound Reinforcement booked acts for three stages, Lead Sound Tech, Performer and Band Leader
+</details>
 
-**Good Company Music Nashville** (2014-2015)
-- **Role:** Full Band, Trio, Duo and Solo - Logistics/Sound Tech/Performer
+<details open><summary><strong>Frontend</strong></summary>
+<br/>
 
-**The Sound - Dove Records** (2000-2001)
-- **Role:** Vocalist and Recording Artist
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-**Light Ministries, Liberty University** (2000)
-- **Role:** Vocal Performance Scholarship - Kenya 2000 Mission Trip
+</details>
+
+<details open><summary><strong>Backend & Databases</strong></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+
+</details>
+
+<details open><summary><strong>Tools & Platforms</strong></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
+
 </details>
 
 ---
 
-<details><summary style="font-size: 1.5em; font-weight: bold;">Projects</summary>
+## GitHub Stats
 
-### Project 1: J.A.T.E.
-- **Description:** This addresses the need for a simple and effective tool for capturing code snippets on the fly.
-- **Technologies Used:** HTML, CSS, JavaScript, React
-- **Render Link:** [Render Deployment](https://inbrowtexed.onrender.com/)
-- **GitHub Link:** [GitHub Repository](https://github.com/P5YC0DR3AM3R/InBrowTexEd)
+<p align="center">
+  <a href="https://github.com/P5YC0DR3AM3R">
+    <img src="https://streak-stats.demolab.com?user=P5YC0DR3AM3R&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub Streak" width="49%" />
+  </a>
+  <a href="https://github.com/P5YC0DR3AM3R">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P5YC0DR3AM3R&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=8" alt="Top Languages" width="40%" />
+  </a>
+</p>
 
-### Project 2: Note Taker
-- **Description:** Brief description of the project.
-- **Technologies Used:** React
-- **Render Link:** [Render Deployment](https://takenote-k889.onrender.com/)
-- **GitHub Link:** [GitHub Repository](https://github.com/P5YC0DR3AM3R/takeNote)
+<p align="center">
+  <a href="https://github.com/P5YC0DR3AM3R">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=P5YC0DR3AM3R&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  </a>
+</p>
 
-### Project 3: Portfolio
-- **Description:** This is my portfolio website.
-- **Technologies Used:** HTML, CSS, JavaScript
-- **Deployment Link:** [GitHub Deployment](https://p5yc0dr3am3r.github.io/personal_portfolio/)
-- **GitHub Link:** [GitHub Repository](https://github.com/P5YC0DR3AM3R/personal_portfolio)
+---
+
+<details><summary><strong>Work Experience</strong></summary>
+<br/>
+
+| Company | Role | Period |
+|---------|------|--------|
+| **Self Employed** | Performing Artist - Voice and Guitar | 2002 - Present |
+| **Hard Rock Hotel at Universal Orlando** | Singer Performer - Trio, Duo and Solo | 2011 - Present |
+| **BookIt Entertainment Corporate Events** | Performing Artist - Tripped Up Trio, Duo and Solo | 2009 - 2022 |
+| **MRMG Live** | Senior Partner - Stage Management and Entertainment Director | 2017 - 2019 |
+| **Fishlips, Cape Canaveral** | Entertainment Director - Schedule, Payroll and Performer | 2014 - 2020 |
+| **Brewmaster's Invitational Beer Festival** | Sound Reinforcement Coordinator, Lead Sound Tech, Performer | 2015 & 2016 |
+| **Good Company Music Nashville** | Full Band, Trio, Duo and Solo - Logistics/Sound Tech/Performer | 2014 - 2015 |
+| **The Sound - Dove Records** | Vocalist and Recording Artist | 2000 - 2001 |
+| **Light Ministries, Liberty University** | Vocal Performance Scholarship - Kenya Mission Trip | 2000 |
+
 </details>
 
-## Certifications
+---
 
-![EdX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
+<details><summary><strong>Projects</strong></summary>
+<br/>
 
-**EdX Bootcamp for Full Stack Flex Coding** (June 2024)
-- Comprehensive training in full stack development covering both front-end and back-end technologies.
+### J.A.T.E. (Just Another Text Editor)
+> A simple and effective tool for capturing code snippets on the fly.
 
-![Simplilearn](https://img.shields.io/badge/Simplilearn-FF6600?style=for-the-badge&logo=simplilearn&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**Applied Generative AI Specialization** (October 2025)
-- Issued by: University of Michigan / Simplilearn
-- Description: Advanced specialization in applied generative AI concepts and techniques.
+[Live Demo](https://inbrowtexed.onrender.com/) &bull; [Repository](https://github.com/P5YC0DR3AM3R/InBrowTexEd)
+
+---
+
+### Note Taker
+> A note-taking application built with React.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+[Live Demo](https://takenote-k889.onrender.com/) &bull; [Repository](https://github.com/P5YC0DR3AM3R/takeNote)
+
+---
+
+### Portfolio
+> Personal portfolio website showcasing my work and skills.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[Live Demo](https://p5yc0dr3am3r.github.io/personal_portfolio/) &bull; [Repository](https://github.com/P5YC0DR3AM3R/personal_portfolio)
 
 </details>
 
-## Below is a short description:
-
-### What was your motivation?
-To learn to solve real world problems by creating simple tools that connect every user with the perfect solution.
-
-### Why did you build this project?
-This Repository is to serve as an example of my learning journey.  I have learned version control using Git and am implementing that knowledge here.
-
-### What problem does it solve?
-This acts as a profile page, or a "one stop shop" for all of my current projects in development.
-
-### What did you learn?
-
-| Markup/Styling       | Frontend Framework  | Backend/Database       | Deployment/Version Control | Other Tools/Libraries   |
-| -------------------- | ------------------- | ---------------------- | ------------------------- | ---------------------- |
-| ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)             | ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)           | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)                | ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)                |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)             | ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=for-the-badge&logo=Material-UI&logoColor=white)        | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)              | ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)                 | ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-F7DF1E.svg?style=for-the-badge&logo=MERN%20Stack&logoColor=white)      |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)             | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)         | ![Mongoose](https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white)             | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)                 | ![ORM](https://img.shields.io/badge/ORM-007BFF.svg?style=for-the-badge&logo=ORM&logoColor=white)                 |
-| ![Flexbox](https://img.shields.io/badge/Flexbox-333333.svg?style=for-the-badge&logo=Flexbox&logoColor=white)           | ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)          | ![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)           | ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)                    | ![API](https://img.shields.io/badge/API-28A745.svg?style=for-the-badge&logo=API&logoColor=white)                 |
-| ![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)              |                      | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)              | ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)                          | ![PWA](https://img.shields.io/badge/PWA-000000.svg?style=for-the-badge&logo=PWA&logoColor=white)                 |
-|                      |                      | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)           |                           | ![MVC](https://img.shields.io/badge/MVC-FF8300.svg?style=for-the-badge&logo=MVC&logoColor=white)                 |
-|                      |                      | ![NoSQL](https://img.shields.io/badge/NoSQL-000000.svg?style=for-the-badge&logo=NoSQL&logoColor=white)                |                           | ![ZSH](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white)                 |
-|                      |                      | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)           |                           |                        |
-
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Email](#email)
-
-## Installation
-Checkout more information about each project in the associated README file.  There will be instructions for each project.
-
-## Usage
-
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-
-https://github.com/P5YC0DR3AM3R/P5YC0DR3AM3R
-
+---
 
 ## License
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-<details>
-      <summary>MIT License</summary>
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://lbesson.mit-license.org/)
+
+<details><summary>View MIT License</summary>
+<br/>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -183,42 +219,46 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.</details>
+SOFTWARE.
 
-## Contributing
-Email me and put "Request to push to GitHub Repo" in the subject line and we can discuss any contributions!
-
-## Tests
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=P5YC0DR3AM3R&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P5YC0DR3AM3R&layout=compact&theme=radical)
-
-## Questions
-For any questions, please contact me at [micahreadmgmt@gmail.com](mailto:micahreadmgmt@gmail.com).
+</details>
 
 ---
 
-### Created by
-Micah Read
+## Contributing
 
-![Mac OS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
+Interested in contributing? Email me and put **"Request to push to GitHub Repo"** in the subject line and we can discuss!
 
-# Sources
+---
 
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)
-![W3 Schools](https://img.shields.io/badge/W3Schools-04AA6D.svg?style=for-the-badge&logo=W3Schools&logoColor=white)
-![EdX](https://img.shields.io/badge/edX-02262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![MDN Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=for-the-badge&logo=MDN-Web-Docs&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+## Learning Sources
 
-<pre><font size="1">
-8888888b.  888888888 Y88b   d88P  .d8888b.   .d8888b.       8888888b.  8888888b.   .d8888b.         d8888 888b     d888  .d8888b.  8888888b.  
-888   Y88b 888        Y88b d88P  d88P  Y88b d88P  Y88b      888  "Y88b 888   Y88b d88P  Y88b       d88888 8888b   d8888 d88P  Y88b 888   Y88b 
-888    888 888         Y88o88P   888    888 888    888      888    888 888    888      .d88P      d88P888 88888b.d88888      .d88P 888    888 
-888   d88P 8888888b.    Y888P    888        888    888      888    888 888   d88P     8888"      d88P 888 888Y88888P888     8888"  888   d88P 
-8888888P"       "Y88b    888     888        888    888      888    888 8888888P"       "Y8b.    d88P  888 888 Y888P 888      "Y8b. 8888888P"  
-888               888    888     888    888 888    888      888    888 888 T88b   888    888   d88P   888 888  Y8P  888 888    888 888 T88b   
-888        Y88b  d88P    888     Y88b  d88P Y88b  d88P      888  .d88P 888  T88b  Y88b  d88P  d8888888888 888   "   888 Y88b  d88P 888  T88b  
-888         "Y8888P"     888      "Y8888P"   "Y8888P"       8888888P"  888   T88b  "Y8888P"  d88P     888 888       888  "Y8888P"  888   T88b 
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
+![edX](https://img.shields.io/badge/edX-02262B?style=for-the-badge&logo=edx&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+<p align="center">
+  <sub>For questions, reach me at <a href="mailto:micahreadmgmt@gmail.com">micahreadmgmt@gmail.com</a></sub>
+</p>
+
+<pre align="center"><font size="1">
+8888888b.  888888888 Y88b   d88P  .d8888b.   .d8888b.       8888888b.  8888888b.   .d8888b.         d8888 888b     d888  .d8888b.  8888888b.
+888   Y88b 888        Y88b d88P  d88P  Y88b d88P  Y88b      888  "Y88b 888   Y88b d88P  Y88b       d88888 8888b   d8888 d88P  Y88b 888   Y88b
+888    888 888         Y88o88P   888    888 888    888      888    888 888    888      .d88P      d88P888 88888b.d88888      .d88P 888    888
+888   d88P 8888888b.    Y888P    888        888    888      888    888 888   d88P     8888"      d88P 888 888Y88888P888     8888"  888   d88P
+8888888P"       "Y88b    888     888        888    888      888    888 8888888P"       "Y8b.    d88P  888 888 Y888P 888      "Y8b. 8888888P"
+888               888    888     888    888 888    888      888    888 888 T88b   888    888   d88P   888 888  Y8P  888 888    888 888 T88b
+888        Y88b  d88P    888     Y88b  d88P Y88b  d88P      888  .d88P 888  T88b  Y88b  d88P  d8888888888 888   "   888 Y88b  d88P 888  T88b
+888         "Y8888P"     888      "Y8888P"   "Y8888P"       8888888P"  888   T88b  "Y8888P"  d88P     888 888       888  "Y8888P"  888   T88b
 </font></pre>
+
+<!-- Animated Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />
+</p>
+]]>
