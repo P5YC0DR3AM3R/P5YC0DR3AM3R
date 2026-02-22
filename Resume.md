@@ -7,28 +7,40 @@
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P5YC0DR3AM3R)  https://github.com/P5YC0DR3AM3R
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micahreadmgmt/)  https://www.linkedin.com/in/micahreadmgmt
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P5YC0DR3AM3R)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micahreadmgmt/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micahreadmgmt@gmail.com)
 
 ---
 
 ## Summary
 
-Full stack developer with a passion for building efficient, scalable web applications. Recently graduated from EdX Bootcamp for Full Stack Flex Coding, equipped with a solid foundation in front-end and back-end technologies. Strong problem-solving skills and a dedication to continuous learning. Seeking to leverage my skills in a dynamic and innovative development team.
+Full stack developer with a passion for building efficient, scalable web applications. Equipped with a solid foundation in front-end and back-end technologies from the EdX/UCF Full Stack Flex Coding Bootcamp, and an advanced specialization in Applied Generative AI from the University of Michigan. Strong problem-solving skills and a dedication to continuous learning.
 
 ---
 
-## Education
+## Education & Certifications
 
-**EdX Bootcamp for Full Stack Flex Coding**
-- **Graduation Date:** June 17, 2024
+![edX](https://img.shields.io/badge/edX-02262B?style=for-the-badge&logo=edx&logoColor=white)
+
+**EdX / UCF Full Stack Flex Coding Bootcamp** (June 2024)
+- Comprehensive training in full stack development covering both front-end and back-end technologies.
+- Front-end: HTML, CSS, JavaScript, React, Material-UI, Bootstrap, Tailwind
+- Back-end: Node.js, Express.js, MongoDB, SQL, PostgreSQL
+- Other Technologies: Git, GitHub, GitLab, Netlify, Render, Apollo GraphQL
+
+![Simplilearn](https://img.shields.io/badge/Simplilearn-FF6600?style=for-the-badge)
+![University of Michigan](https://img.shields.io/badge/U%20of%20Michigan-00274C?style=for-the-badge&logoColor=white)
+
+**Applied Generative AI Specialization** (October 2025)
+- Issued by: University of Michigan / Simplilearn
+- Advanced specialization in applied generative AI concepts and techniques.
 
 **Liberty University, Lynchburg, VA**
-- **Attended:** August 1999 – May 2000
+- Attended: August 1999 - May 2000
 
 **Collins Hill High School, Suwanee, GA**
-- **Graduated:** 1999
+- Graduated: 1999
 
 ---
 
@@ -42,105 +54,89 @@ Full stack developer with a passion for building efficient, scalable web applica
 
 ---
 
-<details><summary style="font-size: 1.5em; font-weight: bold;">Work Experience</summary>
+<details><summary><strong>Work Experience</strong></summary>
+<br/>
 
 **Self Employed** (2002-Present)
-- **Role:** Performing Artist - Voice and Guitar
+- Performing Artist - Voice and Guitar
 
 **Hard Rock Hotel at Universal Orlando** (2011-Present)
-- **Role:** Singer Performer Trio, Duo and Solo
+- Singer Performer - Trio, Duo and Solo
 
 **BookIt Entertainment Corporate Events** (2009-2022)
-- **Role:** Performing Artist - Tripped Up Trio, Duo and Solo
+- Performing Artist - Tripped Up Trio, Duo and Solo
 
 **MRMG Live** (2017-2019)
-- **Role:** Senior Partner - Stage Management and Entertainment Director Services
+- Senior Partner - Stage Management and Entertainment Director Services
 
-**Fishlips, Cape Canaveral** (20014-2020)
-- **Role:** Entertainment Director - Schedule and Payroll for two stages and Performer
+**Fishlips, Cape Canaveral** (2014-2020)
+- Entertainment Director - Schedule and Payroll for two stages and Performer
 
 **Brewmaster's Invitational Beer Festival, Cape Canaveral** (2015 & 2016)
-- **Role:** Coordinated Sound Reinforcement booked acts for three stages, Lead Sound Tech, Performer and Band Leader
+- Coordinated Sound Reinforcement, booked acts for three stages, Lead Sound Tech, Performer and Band Leader
 
 **Good Company Music Nashville** (2014-2015)
-- **Role:** Full Band, Trio, Duo and Solo - Logistics/Sound Tech/Performer
+- Full Band, Trio, Duo and Solo - Logistics/Sound Tech/Performer
 
 **The Sound - Dove Records** (2000-2001)
-- **Role:** Vocalist and Recording Artist
+- Vocalist and Recording Artist
 
 **Light Ministries, Liberty University** (2000)
-- **Role:** Vocal Performance Scholarship - Kenya 2000 Mission Trip
+- Vocal Performance Scholarship - Kenya 2000 Mission Trip
+
 </details>
 
 ---
 
-<details><summary style="font-size: 1.5em; font-weight: bold;">Projects</summary>
+<details><summary><strong>Projects</strong></summary>
+<br/>
 
-### Project 1: J.A.T.E.
-- **Description:** This addresses the need for a simple and effective tool for capturing code snippets on the fly.
+### J.A.T.E. (Just Another Text Editor)
+- **Description:** A simple and effective tool for capturing code snippets on the fly.
 - **Technologies Used:** HTML, CSS, JavaScript, React
 - **Render Link:** [Render Deployment](https://inbrowtexed.onrender.com/)
 - **GitHub Link:** [GitHub Repository](https://github.com/P5YC0DR3AM3R/InBrowTexEd)
 
-### Project 2: Note Taker
-- **Description:** Brief description of the project.
+### Note Taker
+- **Description:** A note-taking application built with React.
 - **Technologies Used:** React
 - **Render Link:** [Render Deployment](https://takenote-k889.onrender.com/)
 - **GitHub Link:** [GitHub Repository](https://github.com/P5YC0DR3AM3R/takeNote)
 
-### Project 3: Portfolio
-- **Description:** This is my portfolio website.
+### Portfolio
+- **Description:** Personal portfolio website showcasing my work and skills.
 - **Technologies Used:** HTML, CSS, JavaScript
 - **Deployment Link:** [GitHub Deployment](https://p5yc0dr3am3r.github.io/personal_portfolio/)
 - **GitHub Link:** [GitHub Repository](https://github.com/P5YC0DR3AM3R/personal_portfolio)
+
 </details>
 
 ---
 
-## Certifications
+<details><summary><strong>Technologies</strong></summary>
+<br/>
 
-![EdX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
 
-**EdX Bootcamp for Full Stack Flex Coding** (June 2024)
-- Comprehensive training in full stack development covering both front-end and back-end technologies.
-
-![Simplilearn](https://img.shields.io/badge/Simplilearn-FF6600?style=for-the-badge&logo=simplilearn&logoColor=white)
-
-**Applied Generative AI Specialization** (October 2025)
-- Issued by: University of Michigan / Simplilearn
-- Description: Advanced specialization in applied generative AI concepts and techniques.
-
----
-
-<details><summary style="font-size: 1.5em; font-weight: bold;">Technologies</summary>
-
-  ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-  ![Flexbox](https://img.shields.io/badge/Flexbox-333333.svg?style=for-the-badge&logo=Flexbox&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-  ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=for-the-badge&logo=Material-UI&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-  ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-  ![Mongoose](https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-  ![NoSQL](https://img.shields.io/badge/NoSQL-000000.svg?style=for-the-badge&logo=NoSQL&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-  ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
-  ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-F7DF1E.svg?style=for-the-badge&logo=MERN%20Stack&logoColor=white)
-  ![ORM](https://img.shields.io/badge/ORM-007BFF.svg?style=for-the-badge&logo=ORM&logoColor=white)
-  ![API](https://img.shields.io/badge/API-28A745.svg?style=for-the-badge&logo=API&logoColor=white)
-  ![PWA](https://img.shields.io/badge/PWA-000000.svg?style=for-the-badge&logo=PWA&logoColor=white)
-  ![MVC](https://img.shields.io/badge/MVC-FF8300.svg?style=for-the-badge&logo=MVC&logoColor=white)
-  ![ZSH](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white) 
 </details>
