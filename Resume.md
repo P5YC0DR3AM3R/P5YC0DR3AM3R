@@ -109,6 +109,12 @@ Full stack developer with a passion for building efficient, scalable web applica
 - **Deployment Link:** [GitHub Deployment](https://p5yc0dr3am3r.github.io/personal_portfolio/)
 - **GitHub Link:** [GitHub Repository](https://github.com/P5YC0DR3AM3R/personal_portfolio)
 
+### Patent Miner V3
+- **Description:** AI-powered platform that discovers expired patents and transforms them into commercialization opportunities using hybrid retrieval and multi-dimensional viability scoring.
+- **Technologies Used:** Python, Streamlit, Crew.AI, Plotly, Docker
+- **Render Link:** [Render Deployment](https://patent-miner.onrender.com)
+- **GitHub Link:** [GitHub Repository](https://github.com/P5YC0DR3AM3R/Patent-Miner)
+
 </details>
 
 ---

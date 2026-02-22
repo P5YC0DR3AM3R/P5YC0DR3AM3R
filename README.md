@@ -1,4 +1,4 @@
-<![CDATA[<!-- Animated Wave Header -->
+<!-- Animated Wave Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0D1117&height=220&section=header&text=P5YC0DR3AM3R&fontSize=70&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Micah%20Read%20%7C%20Full%20Stack%20Developer%20%7C%20Musician&descSize=18&descColor=8B949E&descAlignY=55" width="100%" alt="Header" />
 </p>
@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/P5YC0DR3AM3R">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%7C+Musician+%7C+Lifelong+Learner;Building+efficient%2C+scalable+web+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer+%7C+Musician+%7C+Lifelong+Learner;Building+efficient%2C+scalable+web+applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -192,6 +192,19 @@ Full stack developer with a passion for building efficient, scalable web applica
 
 [Live Demo](https://p5yc0dr3am3r.github.io/personal_portfolio/) &bull; [Repository](https://github.com/P5YC0DR3AM3R/personal_portfolio)
 
+---
+
+### Patent Miner V3
+> AI-powered platform that discovers expired patents and transforms them into commercialization opportunities, analyzing 186 patents with hybrid retrieval and multi-dimensional viability scoring.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+[Live Demo](https://patent-miner.onrender.com) &bull; [Repository](https://github.com/P5YC0DR3AM3R/Patent-Miner)
+
 </details>
 
 ---
@@ -261,4 +274,3 @@ Interested in contributing? Email me and put **"Request to push to GitHub Repo"*
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />
 </p>
-]]>
