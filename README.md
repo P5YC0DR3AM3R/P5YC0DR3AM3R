@@ -1,4 +1,4 @@
-<![CDATA[<!-- Animated Wave Header -->
+<!-- Animated Wave Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0D1117&height=220&section=header&text=P5YC0DR3AM3R&fontSize=70&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Micah%20Read%20%7C%20Full%20Stack%20Developer%20%7C%20Musician&descSize=18&descColor=8B949E&descAlignY=55" width="100%" alt="Header" />
 </p>
@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/P5YC0DR3AM3R">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%7C+Musician+%7C+Lifelong+Learner;Building+efficient%2C+scalable+web+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer+%7C+Musician+%7C+Lifelong+Learner;Building+efficient%2C+scalable+web+applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -261,4 +261,3 @@ Interested in contributing? Email me and put **"Request to push to GitHub Repo"*
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />
 </p>
-]]>
