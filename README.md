@@ -109,6 +109,12 @@ Full stack developer with a passion for building efficient, scalable web applica
 **EdX Bootcamp for Full Stack Flex Coding** (June 2024)
 - Comprehensive training in full stack development covering both front-end and back-end technologies.
 
+![Simplilearn](https://img.shields.io/badge/Simplilearn-FF6600?style=for-the-badge&logo=simplilearn&logoColor=white)
+
+**Applied Generative AI Specialization** (October 2025)
+- Issued by: University of Michigan / Simplilearn
+- Description: Advanced specialization in applied generative AI concepts and techniques.
+
 </details>
 
 ## Below is a short description:
