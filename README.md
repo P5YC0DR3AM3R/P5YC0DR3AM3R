@@ -23,7 +23,7 @@
 
 ## About Me
 
-Full stack developer with a passion for building efficient, scalable web applications. Equipped with a solid foundation in front-end and back-end technologies from the EdX/UCF Full Stack Flex Coding Bootcamp, and an advanced specialization in Applied Generative AI from the University of Michigan. Strong problem-solving skills and a dedication to continuous learning. When I'm not coding, you can find me performing as a vocalist and guitarist across Central Florida.
+Full stack developer with a passion for building efficient, scalable web applications. Equipped with a solid foundation in front-end and back-end technologies from the EdX/UCF Full Stack Flex Coding Bootcamp, and an advanced specialization in Applied Generative AI from the University of Michigan. Strong problem-solving skills and a dedication to continuous learning.
 
 ---
 
