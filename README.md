@@ -305,8 +305,18 @@ Interested in contributing? Email me and put **"Request to push to GitHub Repo"*
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-02262B?style=for-the-badge&logo=edx&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![Le Chat](https://img.shields.io/badge/Le_Chat-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![Julius AI](https://img.shields.io/badge/Julius_AI-F05A28?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Awesome Azure Developer CLI](https://img.shields.io/badge/Awesome_Azure_Developer_CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Awesome MCP Servers](https://img.shields.io/badge/Awesome_MCP_Servers-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
