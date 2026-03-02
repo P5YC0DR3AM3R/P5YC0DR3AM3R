@@ -1,6 +1,19 @@
+# Project Title
+
+Brief description of your project.
+
+## Installation
+
+Instructions for installing and running the project.
+
+## Usage
+
+Instructions for using the project.
+
 ## Tools & Platforms
 
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Windsurf](https://img.shields.io/badge/Windsurf-0B5FFF?style=for-the-badge&logo=windsurf&logoColor=white)
+[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue.svg)](https://code.visualstudio.com/)  [![Windsurf](https://img.shields.io/badge/Tool-Windsurf-orange.svg)](https://windsurf.com)
 
-All other content remains unchanged...
+## License
+
+This project is licensed under the MIT License.
