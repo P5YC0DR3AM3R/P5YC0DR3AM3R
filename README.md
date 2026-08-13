@@ -14,7 +14,8 @@
 <p align="center">
   <a href="https://github.com/P5YC0DR3AM3R"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/micahreadmgmt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:micahreadmgmt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:micahreadmgmt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="mailto:micah@lyricshow.live"><img src="https://img.shields.io/badge/Business-00E5FF?style=for-the-badge&logo=maildotru&logoColor=black" alt="Business Email" /></a>
 </p>
 
 <br/>
@@ -148,12 +149,55 @@ Full stack developer with a passion for building efficient, scalable web applica
 
 </details>
 
+<details open><summary><strong>3D, Graphics & Realtime</strong></summary>
+<br/>
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_2D-FF6F00?style=for-the-badge&logo=html5&logoColor=white)
+![glTF](https://img.shields.io/badge/glTF-87C540?style=for-the-badge&logo=khronosgroup&logoColor=white)
+![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white)
+
+</details>
+
+<details open><summary><strong>Mobile & Native</strong></summary>
+<br/>
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+</details>
+
+<details open><summary><strong>On-Device ML & Audio</strong></summary>
+<br/>
+
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Vosk](https://img.shields.io/badge/Vosk-1E88E5?style=for-the-badge&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![Web Audio API](https://img.shields.io/badge/Web_Audio_API-FF3E00?style=for-the-badge&logo=javascript&logoColor=white)
+
+</details>
+
 <details open><summary><strong>Cloud Platforms</strong></summary>
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Modal](https://img.shields.io/badge/Modal-7F5AF0?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -171,6 +215,12 @@ Full stack developer with a passion for building efficient, scalable web applica
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0B5FFF?style=for-the-badge&logo=windsurf&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Sharp](https://img.shields.io/badge/sharp-99CC00?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -264,6 +314,69 @@ Full stack developer with a passion for building efficient, scalable web applica
 
 ---
 
+## Phygital DevOps &mdash; Shipped
+
+<sub>Four products live in production. Full portfolio: <a href="https://github.com/Phygital-DevOps">github.com/Phygital-DevOps</a></sub>
+
+<br/>
+
+### LyricShow
+> Real-time captions and translation for live performers, running **on-device** and compositing straight into an OBS broadcast. Three first-class clients converge on one core: Vosk WASM / SFSpeechRecognizer for recognition, int8-quantized OPUS-MT via ONNX Runtime for translation, and a token-scoped WebSocket overlay.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+[Live](https://lyricshow.live) &bull; [Repository](https://github.com/Phygital-DevOps/lyric-show)
+
+---
+
+### Moment on Main
+> A 7,000 sq ft event venue that quotes, books and manages itself. One Cloudflare Worker serves four static pages and seven JSON endpoints, with a fail-closed admin desk and a pricing engine held to a three-year parity test.
+
+![Cloudflare Workers](https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![Workers KV](https://img.shields.io/badge/Workers_KV-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[Live](https://momentonmain.events) &bull; [Repository](https://github.com/Phygital-DevOps/Moment-On-Main)
+
+---
+
+### Striper Viper
+> Guided striped bass charters on Lake Lanier &mdash; browse the tours and book a date without talking to anyone first.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[Live](https://striperviper.com) &bull; [Repository](https://github.com/Phygital-DevOps/Striper-Viper)
+
+---
+
+### Spidersperts
+> A dock-and-boat spider-control site with a twenty-level colony survival game running underneath it &mdash; same page, same Verlet physics engine, same wind model moving both the webs and the marketing copy.
+
+![Canvas](https://img.shields.io/badge/Canvas_2D-FF6F00?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+[Live](https://spidersperts.com) &bull; [Repository](https://github.com/Phygital-DevOps/Spidersperts)
+
+---
+
+### Phygital DevOps &mdash; Portfolio
+> The studio site itself. React + Three.js, with the company mark generated as a 3D asset and flown around the page under spring physics, and the four products embedded as live, spinnable portals.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+[Repository](https://github.com/Phygital-DevOps/Phygital-DevOps)
+
+---
+
 ## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://lbesson.mit-license.org/)
@@ -297,6 +410,9 @@ SOFTWARE.
 
 Interested in contributing? Email me and put **"Request to push to GitHub Repo"** in the subject line and we can discuss!
 
+- General &mdash; <micahreadmgmt@gmail.com>
+- Phygital DevOps business &mdash; <micah@lyricshow.live>
+
 ---
 
 ## Learning Sources
@@ -321,7 +437,7 @@ Interested in contributing? Email me and put **"Request to push to GitHub Repo"*
 ---
 
 <p align="center">
-  <sub>For questions, reach me at <a href="mailto:micahreadmgmt@gmail.com">micahreadmgmt@gmail.com</a></sub>
+  <sub>General: <a href="mailto:micahreadmgmt@gmail.com">micahreadmgmt@gmail.com</a> &nbsp;&bull;&nbsp; Business: <a href="mailto:micah@lyricshow.live">micah@lyricshow.live</a></sub>
 </p>
 
 <pre align="center"><font size="1">
