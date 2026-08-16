@@ -1,9 +1,9 @@
 # Micah Read
 
 **Contact Information**
-- **Address:** 1102 Whitewater Bay Dr, Groveland, FL 34736
-- **Cell:** (305) 587-1186
+- **Location:** Central Florida &mdash; remote and hybrid
 - **Email:** micahreadmgmt@gmail.com &bull; micah@lyricshow.live
+- **Phone:** available on request
 
 ---
 
