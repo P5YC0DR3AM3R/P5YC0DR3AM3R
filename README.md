@@ -233,7 +233,7 @@ Full stack developer with a passion for building efficient, scalable web applica
     <img src="https://streak-stats.demolab.com?user=P5YC0DR3AM3R&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub Streak" width="49%" />
   </a>
   <a href="https://github.com/P5YC0DR3AM3R">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P5YC0DR3AM3R&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=8" alt="Top Languages" width="40%" />
+    <img src="https://raw.githubusercontent.com/P5YC0DR3AM3R/P5YC0DR3AM3R/main/assets/top-languages.svg" alt="Top Languages" width="49%" />
   </a>
 </p>
 
