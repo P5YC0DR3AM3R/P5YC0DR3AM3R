@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="194" viewBox="0 0 420 194" role="img" aria-labelledby="title desc">
+  <title id="title">Top Languages</title>
+  <desc id="desc">JavaScript 37.14%, Python 36.42%, CSS 12.80%, Swift 6.08%, HTML 5.30%, Handlebars 1.69%, Jupyter Notebook 0.51%, Shell 0.07%</desc>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+  </style>
+  <rect width="420" height="194" rx="8" fill="#0D1117" />
+  <text x="25" y="38" fill="#58A6FF" font-size="18" font-weight="600">Top Languages</text>
+  <g>
+    <rect x="25" y="58" width="370" height="10" rx="5" fill="#21262D" />
+    <mask id="bar">
+      <rect x="25" y="58" width="370" height="10" rx="5" fill="#fff" />
+    </mask>
+    <g mask="url(#bar)">
+      <rect x="25.00" y="58" width="137.40" height="10" fill="#f1e05a" />
+      <rect x="162.40" y="58" width="134.77" height="10" fill="#3572A5" />
+      <rect x="297.17" y="58" width="47.37" height="10" fill="#663399" />
+      <rect x="344.54" y="58" width="22.48" height="10" fill="#F05138" />
+      <rect x="367.01" y="58" width="19.59" height="10" fill="#e34c26" />
+      <rect x="386.61" y="58" width="6.26" height="10" fill="#f7931e" />
+      <rect x="392.87" y="58" width="1.88" height="10" fill="#DA5B0B" />
+      <rect x="394.75" y="58" width="0.25" height="10" fill="#89e051" />
+    </g>
+  </g>
+  <g>
+      <g>
+        <circle cx="30" cy="92" r="5" fill="#f1e05a" />
+        <text x="43" y="96" fill="#C9D1D9" font-size="12">JavaScript</text>
+        <text x="196" y="96" fill="#8B949E" font-size="12" text-anchor="end">37.14%</text>
+      </g>
+      <g>
+        <circle cx="215" cy="92" r="5" fill="#3572A5" />
+        <text x="228" y="96" fill="#C9D1D9" font-size="12">Python</text>
+        <text x="381" y="96" fill="#8B949E" font-size="12" text-anchor="end">36.42%</text>
+      </g>
+      <g>
+        <circle cx="30" cy="118" r="5" fill="#663399" />
+        <text x="43" y="122" fill="#C9D1D9" font-size="12">CSS</text>
+        <text x="196" y="122" fill="#8B949E" font-size="12" text-anchor="end">12.80%</text>
+      </g>
+      <g>
+        <circle cx="215" cy="118" r="5" fill="#F05138" />
+        <text x="228" y="122" fill="#C9D1D9" font-size="12">Swift</text>
+        <text x="381" y="122" fill="#8B949E" font-size="12" text-anchor="end">6.08%</text>
+      </g>
+      <g>
+        <circle cx="30" cy="144" r="5" fill="#e34c26" />
+        <text x="43" y="148" fill="#C9D1D9" font-size="12">HTML</text>
+        <text x="196" y="148" fill="#8B949E" font-size="12" text-anchor="end">5.30%</text>
+      </g>
+      <g>
+        <circle cx="215" cy="144" r="5" fill="#f7931e" />
+        <text x="228" y="148" fill="#C9D1D9" font-size="12">Handlebars</text>
+        <text x="381" y="148" fill="#8B949E" font-size="12" text-anchor="end">1.69%</text>
+      </g>
+      <g>
+        <circle cx="30" cy="170" r="5" fill="#DA5B0B" />
+        <text x="43" y="174" fill="#C9D1D9" font-size="12">Jupyter Notebook</text>
+        <text x="196" y="174" fill="#8B949E" font-size="12" text-anchor="end">0.51%</text>
+      </g>
+      <g>
+        <circle cx="215" cy="170" r="5" fill="#89e051" />
+        <text x="228" y="174" fill="#C9D1D9" font-size="12">Shell</text>
+        <text x="381" y="174" fill="#8B949E" font-size="12" text-anchor="end">0.07%</text>
+      </g>
+  </g>
+</svg>
