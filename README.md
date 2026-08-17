@@ -12,7 +12,8 @@
 
 <!-- Contact Badges -->
 <p align="center">
-  <a href="https://github.com/Phygital-DevOps"><img src="https://img.shields.io/badge/Phygital_DevOps-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Phygital DevOps" /></a>&nbsp;
+  <a href="https://phygitaldevops.com"><img src="https://img.shields.io/badge/Phygital_DevOps-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Phygital DevOps" /></a>&nbsp;
+  <a href="https://github.com/Phygital-DevOps"><img src="https://img.shields.io/badge/Studio_GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Phygital DevOps on GitHub" /></a>&nbsp;
   <a href="https://github.com/P5YC0DR3AM3R"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/micahreadmgmt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:micahreadmgmt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
@@ -33,7 +34,7 @@ Full stack developer with a foundation from the EdX/UCF Full Stack Flex Coding B
 
 ## Phygital DevOps
 
-<sub>Seven projects. Full portfolio: <a href="https://github.com/Phygital-DevOps">github.com/Phygital-DevOps</a></sub>
+<sub>Seven projects. Studio: <a href="https://phygitaldevops.com">phygitaldevops.com</a> &middot; Full portfolio: <a href="https://github.com/Phygital-DevOps">github.com/Phygital-DevOps</a></sub>
 
 <br/>
 
@@ -41,11 +42,11 @@ Full stack developer with a foundation from the EdX/UCF Full Stack Flex Coding B
 |---------|-----------|--------|
 | **[LyricShow](https://lyricshow.live)** | On-device live captions and translation, composited into OBS | Live &mdash; v2.0.0 |
 | **[Moment on Main](https://momentonmain.events)** | A 7,000 sq ft venue that quotes, books and manages itself | Live |
-| **AMA Audio Customs** | Custom audio gear and installation shop | In development |
+| **[AMA Audio Customs](https://amaaudiocustoms.com)** | Custom audio gear and installation shop | In development |
 | **[Spidersperts](https://spidersperts.com)** | Twenty-level colony survival game behind a marketing front | Live &mdash; engine v21 |
 | **[Striper Viper](https://striperviper.com)** | 3D endless runner carrying a Lake Lanier fishing charter | Assets complete &middot; client in development |
 | **Key West Treasure Hunt** | Pirate-island survival and treasure-hunt game | In development |
-| **Phygital DevOps** | The studio site &mdash; the world the portfolio lives inside | In development |
+| **[Phygital DevOps](https://phygitaldevops.com)** | The studio site &mdash; the world the portfolio lives inside | In development |
 
 <br/>
 
@@ -99,7 +100,7 @@ Products with real users behind them.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[Repository](https://github.com/Phygital-DevOps/AMA-Audio-Customs)
+[Live](https://amaaudiocustoms.com) &bull; [Repository](https://github.com/Phygital-DevOps/AMA-Audio-Customs)
 
 ---
 
@@ -179,7 +180,7 @@ One pattern runs through all of these: the marketing page is the container, the 
 ![trimesh](https://img.shields.io/badge/trimesh-2C3E50?style=flat-square&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
-[Repository](https://github.com/Phygital-DevOps/Phygital-DevOps)
+[Live](https://phygitaldevops.com) &bull; [Repository](https://github.com/Phygital-DevOps/Phygital-DevOps)
 
 ---
 
