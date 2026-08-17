@@ -7,7 +7,8 @@
 
 ---
 
-[![Phygital DevOps](https://img.shields.io/badge/Phygital_DevOps-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Phygital-DevOps)&nbsp;
+[![Phygital DevOps](https://img.shields.io/badge/Phygital_DevOps-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://phygitaldevops.com)&nbsp;
+[![Phygital DevOps on GitHub](https://img.shields.io/badge/Studio_GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Phygital-DevOps)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P5YC0DR3AM3R)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micahreadmgmt/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micahreadmgmt@gmail.com)
@@ -39,7 +40,7 @@ Foundation in front-end and back-end development from the EdX/UCF Full Stack Fle
 
 ## Selected Work &mdash; Phygital DevOps
 
-Portfolio: [github.com/Phygital-DevOps](https://github.com/Phygital-DevOps)
+Studio: [phygitaldevops.com](https://phygitaldevops.com) &middot; Portfolio: [github.com/Phygital-DevOps](https://github.com/Phygital-DevOps)
 
 ### Shipped Software
 
@@ -60,10 +61,10 @@ Portfolio: [github.com/Phygital-DevOps](https://github.com/Phygital-DevOps)
 - 3 top-level directories &middot; zero-dependency pages &middot; 34 pull requests
 - [Live](https://momentonmain.events) &bull; [Repository](https://github.com/Phygital-DevOps/Moment-On-Main)
 
-**AMA Audio Customs** &mdash; Custom audio gear and installation shop &middot; *In development*
+**AMA Audio Customs** &mdash; Custom audio gear and installation shop &middot; *Live*
 - Storefront and service site for a custom audio business.
 - **Technologies:** JavaScript, HTML, CSS
-- [Repository](https://github.com/Phygital-DevOps/AMA-Audio-Customs)
+- [Live](https://amaaudiocustoms.com) &bull; [Repository](https://github.com/Phygital-DevOps/AMA-Audio-Customs)
 
 ### Games & Interactive
 
@@ -92,12 +93,12 @@ Portfolio: [github.com/Phygital-DevOps](https://github.com/Phygital-DevOps)
 
 ### Studio Site
 
-**Phygital DevOps Portfolio** &mdash; *In development*
+**Phygital DevOps Portfolio** &mdash; *Live*
 - React and Three.js studio site where the portfolio surfaces as structure inside a 3D world.
 - Asset pipeline: procedural and generative 3D through Blender and Hunyuan3D, mesh decimation and UV unwrapping in Python with trimesh and xatlas, silhouette-IoU and decimation-error measurement as quality gates, glTF repacked to GLB (~26% smaller).
 - Content driven by a `canon.json` source of truth so presentation copy is never invented.
 - **Technologies:** React, Three.js, Vite, Blender, Python, trimesh, SciPy
-- [Repository](https://github.com/Phygital-DevOps/Phygital-DevOps)
+- [Live](https://phygitaldevops.com) &bull; [Repository](https://github.com/Phygital-DevOps/Phygital-DevOps)
 
 ---
 

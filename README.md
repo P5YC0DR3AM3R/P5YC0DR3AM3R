@@ -42,11 +42,11 @@ Full stack developer with a foundation from the EdX/UCF Full Stack Flex Coding B
 |---------|-----------|--------|
 | **[LyricShow](https://lyricshow.live)** | On-device live captions and translation, composited into OBS | Live &mdash; v2.0.0 |
 | **[Moment on Main](https://momentonmain.events)** | A 7,000 sq ft venue that quotes, books and manages itself | Live |
-| **[AMA Audio Customs](https://amaaudiocustoms.com)** | Custom audio gear and installation shop | In development |
+| **[AMA Audio Customs](https://amaaudiocustoms.com)** | Custom audio gear and installation shop | Live |
 | **[Spidersperts](https://spidersperts.com)** | Twenty-level colony survival game behind a marketing front | Live &mdash; engine v21 |
 | **[Striper Viper](https://striperviper.com)** | 3D endless runner carrying a Lake Lanier fishing charter | Assets complete &middot; client in development |
 | **Key West Treasure Hunt** | Pirate-island survival and treasure-hunt game | In development |
-| **[Phygital DevOps](https://phygitaldevops.com)** | The studio site &mdash; the world the portfolio lives inside | In development |
+| **[Phygital DevOps](https://phygitaldevops.com)** | The studio site &mdash; the world the portfolio lives inside | Live |
 
 <br/>
 
@@ -94,7 +94,7 @@ Products with real users behind them.
 ---
 
 #### AMA Audio Customs
-> A custom audio gear and installation shop — the storefront and service side of the business on the web. Newest project in the studio and in active development.
+> A custom audio gear and installation shop — the storefront and service side of the business on the web. Newest project in the studio &mdash; live, and still being built out.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
