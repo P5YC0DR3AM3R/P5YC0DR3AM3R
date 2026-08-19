@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="194" viewBox="0 0 420 194" role="img" aria-labelledby="title desc">
   <title id="title">GitHub Streak</title>
-  <desc id="desc">595 total contributions, 2 day current streak, 9 day longest streak</desc>
+  <desc id="desc">595 total contributions, 0 day current streak, 9 day longest streak</desc>
   <style>
     text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
   </style>
@@ -14,9 +14,9 @@
   </g>
   <g text-anchor="middle">
     <circle cx="210" cy="76" r="35" fill="none" stroke="#58A6FF" stroke-width="3" />
-    <text x="210" y="85" fill="#C9D1D9" font-size="26" font-weight="600">2</text>
+    <text x="210" y="85" fill="#C9D1D9" font-size="26" font-weight="600">0</text>
     <text x="210" y="133" fill="#58A6FF" font-size="12" font-weight="600">Current Streak</text>
-    <text x="210" y="152" fill="#8B949E" font-size="9">Aug 16 - Aug 17</text>
+    <text x="210" y="152" fill="#8B949E" font-size="9">—</text>
   </g>
   <g text-anchor="middle">
     <text x="350" y="85" fill="#C9D1D9" font-size="26" font-weight="600">9</text>
