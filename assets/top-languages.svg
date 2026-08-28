@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="194" viewBox="0 0 420 194" role="img" aria-labelledby="title desc">
   <title id="title">Top Languages</title>
-  <desc id="desc">JavaScript 37.87%, Python 36.00%, CSS 12.65%, Swift 6.00%, HTML 5.23%, Handlebars 1.67%, Jupyter Notebook 0.50%, Shell 0.07%</desc>
+  <desc id="desc">Python 53.07%, HTML 18.77%, JavaScript 18.35%, CSS 5.93%, Swift 2.82%, Handlebars 0.78%, Jupyter Notebook 0.24%, Shell 0.03%</desc>
   <style>
     text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
   </style>
@@ -12,56 +12,56 @@
       <rect x="25" y="58" width="370" height="10" rx="5" fill="#fff" />
     </mask>
     <g mask="url(#bar)">
-      <rect x="25.00" y="58" width="140.11" height="10" fill="#f1e05a" />
-      <rect x="165.11" y="58" width="133.20" height="10" fill="#3572A5" />
-      <rect x="298.31" y="58" width="46.82" height="10" fill="#663399" />
-      <rect x="345.12" y="58" width="22.22" height="10" fill="#F05138" />
-      <rect x="367.34" y="58" width="19.36" height="10" fill="#e34c26" />
-      <rect x="386.70" y="58" width="6.19" height="10" fill="#f7931e" />
-      <rect x="392.89" y="58" width="1.86" height="10" fill="#DA5B0B" />
-      <rect x="394.76" y="58" width="0.24" height="10" fill="#89e051" />
+      <rect x="25.00" y="58" width="196.37" height="10" fill="#3572A5" />
+      <rect x="221.37" y="58" width="69.46" height="10" fill="#e34c26" />
+      <rect x="290.82" y="58" width="67.91" height="10" fill="#f1e05a" />
+      <rect x="358.74" y="58" width="21.96" height="10" fill="#663399" />
+      <rect x="380.69" y="58" width="10.42" height="10" fill="#F05138" />
+      <rect x="391.11" y="58" width="2.90" height="10" fill="#f7931e" />
+      <rect x="394.01" y="58" width="0.87" height="10" fill="#DA5B0B" />
+      <rect x="394.89" y="58" width="0.11" height="10" fill="#89e051" />
     </g>
   </g>
   <g>
       <g>
-        <circle cx="30" cy="92" r="5" fill="#f1e05a" />
-        <text x="43" y="96" fill="#C9D1D9" font-size="12">JavaScript</text>
-        <text x="196" y="96" fill="#8B949E" font-size="12" text-anchor="end">37.87%</text>
+        <circle cx="30" cy="92" r="5" fill="#3572A5" />
+        <text x="43" y="96" fill="#C9D1D9" font-size="12">Python</text>
+        <text x="196" y="96" fill="#8B949E" font-size="12" text-anchor="end">53.07%</text>
       </g>
       <g>
-        <circle cx="215" cy="92" r="5" fill="#3572A5" />
-        <text x="228" y="96" fill="#C9D1D9" font-size="12">Python</text>
-        <text x="381" y="96" fill="#8B949E" font-size="12" text-anchor="end">36.00%</text>
+        <circle cx="215" cy="92" r="5" fill="#e34c26" />
+        <text x="228" y="96" fill="#C9D1D9" font-size="12">HTML</text>
+        <text x="381" y="96" fill="#8B949E" font-size="12" text-anchor="end">18.77%</text>
       </g>
       <g>
-        <circle cx="30" cy="118" r="5" fill="#663399" />
-        <text x="43" y="122" fill="#C9D1D9" font-size="12">CSS</text>
-        <text x="196" y="122" fill="#8B949E" font-size="12" text-anchor="end">12.65%</text>
+        <circle cx="30" cy="118" r="5" fill="#f1e05a" />
+        <text x="43" y="122" fill="#C9D1D9" font-size="12">JavaScript</text>
+        <text x="196" y="122" fill="#8B949E" font-size="12" text-anchor="end">18.35%</text>
       </g>
       <g>
-        <circle cx="215" cy="118" r="5" fill="#F05138" />
-        <text x="228" y="122" fill="#C9D1D9" font-size="12">Swift</text>
-        <text x="381" y="122" fill="#8B949E" font-size="12" text-anchor="end">6.00%</text>
+        <circle cx="215" cy="118" r="5" fill="#663399" />
+        <text x="228" y="122" fill="#C9D1D9" font-size="12">CSS</text>
+        <text x="381" y="122" fill="#8B949E" font-size="12" text-anchor="end">5.93%</text>
       </g>
       <g>
-        <circle cx="30" cy="144" r="5" fill="#e34c26" />
-        <text x="43" y="148" fill="#C9D1D9" font-size="12">HTML</text>
-        <text x="196" y="148" fill="#8B949E" font-size="12" text-anchor="end">5.23%</text>
+        <circle cx="30" cy="144" r="5" fill="#F05138" />
+        <text x="43" y="148" fill="#C9D1D9" font-size="12">Swift</text>
+        <text x="196" y="148" fill="#8B949E" font-size="12" text-anchor="end">2.82%</text>
       </g>
       <g>
         <circle cx="215" cy="144" r="5" fill="#f7931e" />
         <text x="228" y="148" fill="#C9D1D9" font-size="12">Handlebars</text>
-        <text x="381" y="148" fill="#8B949E" font-size="12" text-anchor="end">1.67%</text>
+        <text x="381" y="148" fill="#8B949E" font-size="12" text-anchor="end">0.78%</text>
       </g>
       <g>
         <circle cx="30" cy="170" r="5" fill="#DA5B0B" />
         <text x="43" y="174" fill="#C9D1D9" font-size="12">Jupyter Notebook</text>
-        <text x="196" y="174" fill="#8B949E" font-size="12" text-anchor="end">0.50%</text>
+        <text x="196" y="174" fill="#8B949E" font-size="12" text-anchor="end">0.24%</text>
       </g>
       <g>
         <circle cx="215" cy="170" r="5" fill="#89e051" />
         <text x="228" y="174" fill="#C9D1D9" font-size="12">Shell</text>
-        <text x="381" y="174" fill="#8B949E" font-size="12" text-anchor="end">0.07%</text>
+        <text x="381" y="174" fill="#8B949E" font-size="12" text-anchor="end">0.03%</text>
       </g>
   </g>
 </svg>
