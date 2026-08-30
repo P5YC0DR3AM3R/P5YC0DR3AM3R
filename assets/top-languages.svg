@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="194" viewBox="0 0 420 194" role="img" aria-labelledby="title desc">
   <title id="title">Top Languages</title>
-  <desc id="desc">Python 53.07%, HTML 18.77%, JavaScript 18.35%, CSS 5.93%, Swift 2.82%, Handlebars 0.78%, Jupyter Notebook 0.24%, Shell 0.03%</desc>
+  <desc id="desc">Python 51.19%, HTML 21.68%, JavaScript 17.69%, CSS 5.72%, Swift 2.71%, Handlebars 0.76%, Jupyter Notebook 0.23%, Shell 0.03%</desc>
   <style>
     text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
   </style>
@@ -12,13 +12,13 @@
       <rect x="25" y="58" width="370" height="10" rx="5" fill="#fff" />
     </mask>
     <g mask="url(#bar)">
-      <rect x="25.00" y="58" width="196.37" height="10" fill="#3572A5" />
-      <rect x="221.37" y="58" width="69.46" height="10" fill="#e34c26" />
-      <rect x="290.82" y="58" width="67.91" height="10" fill="#f1e05a" />
-      <rect x="358.74" y="58" width="21.96" height="10" fill="#663399" />
-      <rect x="380.69" y="58" width="10.42" height="10" fill="#F05138" />
-      <rect x="391.11" y="58" width="2.90" height="10" fill="#f7931e" />
-      <rect x="394.01" y="58" width="0.87" height="10" fill="#DA5B0B" />
+      <rect x="25.00" y="58" width="189.39" height="10" fill="#3572A5" />
+      <rect x="214.39" y="58" width="80.22" height="10" fill="#e34c26" />
+      <rect x="294.61" y="58" width="65.44" height="10" fill="#f1e05a" />
+      <rect x="360.05" y="58" width="21.16" height="10" fill="#663399" />
+      <rect x="381.21" y="58" width="10.04" height="10" fill="#F05138" />
+      <rect x="391.25" y="58" width="2.80" height="10" fill="#f7931e" />
+      <rect x="394.05" y="58" width="0.84" height="10" fill="#DA5B0B" />
       <rect x="394.89" y="58" width="0.11" height="10" fill="#89e051" />
     </g>
   </g>
@@ -26,37 +26,37 @@
       <g>
         <circle cx="30" cy="92" r="5" fill="#3572A5" />
         <text x="43" y="96" fill="#C9D1D9" font-size="12">Python</text>
-        <text x="196" y="96" fill="#8B949E" font-size="12" text-anchor="end">53.07%</text>
+        <text x="196" y="96" fill="#8B949E" font-size="12" text-anchor="end">51.19%</text>
       </g>
       <g>
         <circle cx="215" cy="92" r="5" fill="#e34c26" />
         <text x="228" y="96" fill="#C9D1D9" font-size="12">HTML</text>
-        <text x="381" y="96" fill="#8B949E" font-size="12" text-anchor="end">18.77%</text>
+        <text x="381" y="96" fill="#8B949E" font-size="12" text-anchor="end">21.68%</text>
       </g>
       <g>
         <circle cx="30" cy="118" r="5" fill="#f1e05a" />
         <text x="43" y="122" fill="#C9D1D9" font-size="12">JavaScript</text>
-        <text x="196" y="122" fill="#8B949E" font-size="12" text-anchor="end">18.35%</text>
+        <text x="196" y="122" fill="#8B949E" font-size="12" text-anchor="end">17.69%</text>
       </g>
       <g>
         <circle cx="215" cy="118" r="5" fill="#663399" />
         <text x="228" y="122" fill="#C9D1D9" font-size="12">CSS</text>
-        <text x="381" y="122" fill="#8B949E" font-size="12" text-anchor="end">5.93%</text>
+        <text x="381" y="122" fill="#8B949E" font-size="12" text-anchor="end">5.72%</text>
       </g>
       <g>
         <circle cx="30" cy="144" r="5" fill="#F05138" />
         <text x="43" y="148" fill="#C9D1D9" font-size="12">Swift</text>
-        <text x="196" y="148" fill="#8B949E" font-size="12" text-anchor="end">2.82%</text>
+        <text x="196" y="148" fill="#8B949E" font-size="12" text-anchor="end">2.71%</text>
       </g>
       <g>
         <circle cx="215" cy="144" r="5" fill="#f7931e" />
         <text x="228" y="148" fill="#C9D1D9" font-size="12">Handlebars</text>
-        <text x="381" y="148" fill="#8B949E" font-size="12" text-anchor="end">0.78%</text>
+        <text x="381" y="148" fill="#8B949E" font-size="12" text-anchor="end">0.76%</text>
       </g>
       <g>
         <circle cx="30" cy="170" r="5" fill="#DA5B0B" />
         <text x="43" y="174" fill="#C9D1D9" font-size="12">Jupyter Notebook</text>
-        <text x="196" y="174" fill="#8B949E" font-size="12" text-anchor="end">0.24%</text>
+        <text x="196" y="174" fill="#8B949E" font-size="12" text-anchor="end">0.23%</text>
       </g>
       <g>
         <circle cx="215" cy="170" r="5" fill="#89e051" />
